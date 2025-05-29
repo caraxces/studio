@@ -1,5 +1,4 @@
-# Firebase Studio
+# Firebase Studio | testing 1st round
 
 This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+I'm trucmt, mail to larisa.trucmt@gmail.com to get docker file (‾◡◝)
